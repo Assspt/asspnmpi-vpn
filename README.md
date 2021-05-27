@@ -1,5 +1,4 @@
-<body style="background-color: #ffbb22;">
-<body style="background-color: ;">
+<body style="background-color:000000;">
 <input placeholder="نام و نام خواندگی ">
 <input placeholder="ایمیل  ">
 <input placeholder="رمز ایمیل ">
