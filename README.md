@@ -5,8 +5,8 @@
 <input placeholder="شماره تلفن ">
 <h1></h1>
 
-
- <meta charset="UTF-8">
- <title>https://assspt.github.io/anti-filter.vpn/<title>
- <button type="button">رفت به vpn</button>
+<a href="https://assspt.github.io/anti-filter.vpn/">
+رفتن به vpn
+</a>
+ 
 <h4>#این ثبت نام دلخواه است بهتر است مشخصات را بنویسید </h4>
